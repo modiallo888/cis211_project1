@@ -53,6 +53,10 @@ if page == '🏠 Home':
             
                 🌱 **Fun Fact:** I can snowboard!
             ''')
+     with col2:
+    # Placeholder for image
+    st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
+  
 
 
 
