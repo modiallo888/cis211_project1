@@ -57,9 +57,12 @@ if page == '🏠 Home':
     # Placeholder for image
     st.image('https://github.com/modiallo888/cis211_project1/blob/main/wolf%20image.webp?raw=true', use_column_width=True)
   
-  
+ # About Page
+elif page == '🤠 About':
+  st.title('About Me')
 
-
+  # Timeline of my Professional Journey
+  st.subheader('My Journey 🗺️')
 
 
 
