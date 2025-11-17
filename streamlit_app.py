@@ -24,7 +24,7 @@ page = st.sidebar.radio('Go to',
 
 # Home Page
 if page == '🏠 Home':
-  st.markdown('<p class="main-header">Avinash Jairam</p>', unsafe_allow_html=True)
+  st.markdown('<p class="main-header">Mohamed Diallo</p>', unsafe_allow_html=True)
   st.markdown('<p class="sub-header">Aspiring Tech Professional | Medgar Evers College</p>', unsafe_allow_html=True)
 
   # Three Columns for stats
@@ -68,7 +68,7 @@ elif page == '🤠 About':
     st.write('''
                 - Major: Computer Information Systems
                 - Relevant Coursework: Internet & Emerging Technologies, Programming, Database Systems, AI
-                - Activities: Track Team, Volleyball Team, Hackathon participant
+                - Activities: Basketball, Business
             ''')
 
   with st.expander('2023 - 2025: NYC Museum School'):
